@@ -179,3 +179,18 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Self-ignore
+.vscode
+temp
+new_code.txt
+data
+results
+main1.py
+main2.py
+main3.py
+main4.py
+main5.py
+main6.py
+main7.py
+main8.py
