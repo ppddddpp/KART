@@ -10,6 +10,7 @@ from .case9_vit_backbone import case9_vit_backbone
 from .case10_vit_kart import case10_vit_kart
 from .case11_vit_final_tuning import case11_vit_final_tuning
 from .case12_equalized_xai import case12_equalized_xai
+from .case13_low_rank_closure import case13_low_rank_closure
 
 __all__ = [
     'case1_fmnist', 
@@ -23,5 +24,6 @@ __all__ = [
     'case9_vit_backbone',
     'case10_vit_kart',
     'case11_vit_final_tuning',
-    'case12_equalized_xai'
+    'case12_equalized_xai',
+    'case13_low_rank_closure'
 ]
